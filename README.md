@@ -4,7 +4,7 @@ Webscraping script written in Python using the Selenium module to check DVSA tes
 - If there are tests available then the program will send an email stating that a test has been found.  
   
 Requirements:  
- = Python3  
+ - Python3  
  - Pip (package manager for Python)  
   
 Optional:  
@@ -12,9 +12,9 @@ Optional:
 
 Usage:    
 After you clone the git repository:  
-~CD into the directory using terminal if on a UNIX Machine (Linux or Mac)  
-~(cd {path to clone})
-~On windows navigate to the folder and open CMD or alternative to that location
+ - CD into the directory using terminal if on a UNIX Machine (Linux or Mac)  
+ - (cd {path to clone})
+ - On windows navigate to the folder and open CMD or alternative to that location
 
 Run Command:  
  - pip install -r requirements.txt
