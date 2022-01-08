@@ -16,7 +16,7 @@ Webscraping script written in Python using the Selenium module to check DVSA tes
  - On windows navigate to the folder and open CMD or alternative to that location
 
 ## Run Command:  
- - pip install -r requirements.txt
+    pip install -r requirements.txt 
 
  - Python3 DVSA_Test_Checker.py
 
