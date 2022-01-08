@@ -10,8 +10,7 @@ Requirements:
 Optional:  
  - VENV {Python3 -m "path to your venv dir"}  
 
-Usage:    
-After you clone the git repository:  
+Usage for after you clone the git repository:  
  - CD into the directory using terminal if on a UNIX Machine (Linux or Mac)  
  - (cd {path to clone})
  - On windows navigate to the folder and open CMD or alternative to that location
