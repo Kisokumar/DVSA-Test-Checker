@@ -20,4 +20,3 @@ Webscraping script written in Python using the Selenium module to check DVSA tes
     Python3 DVSA_Test_Checker.py  
 
  - Follow the instructions shown inside the program!
-
