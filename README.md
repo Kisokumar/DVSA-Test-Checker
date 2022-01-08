@@ -1,5 +1,7 @@
 # DVSA-Test-Checker
 Webscraping script written in Python using the Selenium module to check DVSA test availability.  
+- Checks the availabilty of tests at a given test centre using DVSA Credentials.
+- If there are tests available then the program will send an email stating that a test has been found.  
   
 Requirements:  
 Python3  
