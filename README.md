@@ -12,12 +12,12 @@ Webscraping script written in Python using the Selenium module to check DVSA tes
 
 ## Usage for after you clone the git repository:  
  - CD into the directory using terminal if on a UNIX Machine (Linux or Mac)  
- - (cd {path to clone})
+    cd 'path/to/clone/dir'
  - On windows navigate to the folder and open CMD or alternative to that location
 
 ## Run Command:  
     pip install -r requirements.txt 
 
- - Python3 DVSA_Test_Checker.py
+    Python3 DVSA_Test_Checker.py
 
  - Follow the instructions shown inside the program!
