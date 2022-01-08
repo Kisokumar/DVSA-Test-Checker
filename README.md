@@ -4,11 +4,11 @@ Webscraping script written in Python using the Selenium module to check DVSA tes
 - If there are tests available then the program will send an email stating that a test has been found.  
   
 Requirements:  
-Python3  
-Pip (package manager for Python)  
+ = Python3  
+ - Pip (package manager for Python)  
   
 Optional:  
-VENV {Python3 -m "path to your venv dir"}  
+ - VENV {Python3 -m "path to your venv dir"}  
 
 Usage:    
 After you clone the git repository:  
@@ -17,8 +17,8 @@ After you clone the git repository:
 ~On windows navigate to the folder and open CMD or alternative to that location
 
 Run Command:  
-pip install -r requirements.txt
+ - pip install -r requirements.txt
 
-"Python3 DVSA_Test_Checker.py"
+ - Python3 DVSA_Test_Checker.py
 
-Follow the instructions shown inside the program!
+ - Follow the instructions shown inside the program!
